@@ -2,7 +2,7 @@ version: 2
 
 sources:
  - name: stripe
-   database: jaffle_shop
+   database: dbtworkshop
    schema: stripe
    tables:
      - name: payment
